@@ -19,7 +19,7 @@ namespace Primer_Proyecto_de_Formularios_en_Visual_C_harp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Mi primer proyecto de formulario";
+            label1.Text = "Hola Mundo";
         }
     }
 }
